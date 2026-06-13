@@ -38,12 +38,19 @@ The analysis uses historical demographic and census datasets covering:
 - Age-group distribution analysis
 - Gender composition assessment
 
+### Population Growth Trend
+
+![Trend in Male, Female and Total Population](Latex/Figures/Figure_1_Trend%20in%20male,female,total%20Total%20population.png)
+
 ### Demographic Transition Analysis
 
 - Study of population growth patterns
 - Identification of demographic transition stages
 - Analysis of structural population change over time
 
+### Population Growth Rate
+
+![Population Growth Rate](Latex/Figures/Figure_2_GR.png)
 ### Dependency Analysis
 
 - Child Dependency Ratio (CDR)
