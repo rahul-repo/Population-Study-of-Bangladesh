@@ -57,11 +57,11 @@ The analysis uses historical demographic and census datasets covering:
 
 ### Adult Dependency Ratio (ADR)
 
-![Adult Dependency Ratio](Latex/Figures/Figure_3_ADR.png)
+![Adult Dependency Ratio](Latex/Figures/Figure_4_ADR.png)
 
 ### Total Dependency Ratio (TDR)
 
-![Total Dependency Ratio](Latex/Figures/Figure_3_TDR.png)
+![Total Dependency Ratio](Latex/Figures/Figure_5_TDR.png)
 ### Comparative Analysis
 
 - Bangladesh demographic trends
