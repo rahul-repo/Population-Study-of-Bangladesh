@@ -88,8 +88,11 @@ The analysis uses historical demographic and census datasets covering:
 README.md
 report.pdf
 
-Results/
+Data Analysis File/
 Datasets/
+Latex/
+Latex/Codes
+Latex/Figures
 ```
 
 ---
